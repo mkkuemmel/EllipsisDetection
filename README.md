@@ -19,7 +19,7 @@ First, run the computational annotation (Step1_computational_annotation.py). It 
 Optional: Second, run the data investigation. It shows some nice facts and figures about our data.
 Third, run the Step3_rule_based_doc_class.py - it classifies the data into Sluice and Non-Sluice.
 Also third (or whenever you want), run the ML algorithm (ML_doc_class.py). <br/> <br/>
-You can see both algorithm's performance in the print commands.
+You can see both algorithm's performance in the print commands.<br/><br/><br/>
 
 
 
@@ -61,7 +61,7 @@ COMPUTATIONAL DATA ANNOTATION: <br/>
 	was extracted and assigned to column P. If no verb could be found in the hit itself, the loop went through the 
 	tagged sentence before the hit (‘ContextBefore’, column C). If it still could not find a verb, one exception 
 	was hard coded: if the sequence ‘keine Ahnung’ (Engl.: no idea) was in the hit, the program ascribed ‘keine Ahnung 
-	haben’ to the last verbal element. If that was not the case either, ‘<none>’ was put into the column. Subsequently, 
+	haben’ to the last verbal element. If that was not the case either, ‘\<none\>’ was put into the column. Subsequently, 
 	the last verbal element was compared to the manually annotated embedding verb (column I) to see if they are the 
 	same (‘y’/’n’).
 - Prediction (column S): A specifically built Sluice-detector can make predictions about a sentence being a sluice 
