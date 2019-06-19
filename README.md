@@ -1,8 +1,9 @@
 # EllipsisDetection
 **This is my Master's thesis: Automatic Ellipsis Detection - Machine Learning vs. Rule-Based Document Classification**
 
-***Only here for the corpus? Look at the end of this readme!***
+***Only here for the corpus? Look at the end of this readme!***<br/><br/>
 
+**Code readme**<br/>
 Ellipses (sentences with missing material) are difficult for machines to process. Where information is bound to emptiness, machines struggle to perform. This is why ellipses must be detected and resolved (the missing material has to be rebuilt into the gap) in order to be smoothly processed by computers. In my thesis, I concentrated on the detection of Sluices. <br/> <br/>
 What are Sluices? A Sluice is an embedded question where all but the interrogative pronoun has been elided: <br/>
 (1) I ate something, but I don't know what [I ate]. <br/>
@@ -24,7 +25,7 @@ You can see both algorithm's performance in the print commands.<br/><br/><br/>
 
 
 
-**Corpus readme**
+**Corpus readme**<br/>
 
 36 search queries containing 36 german wh-phrases were run on the two source corpora (https://www.dwds.de/r)<br/>
 Result: 479 german sentences with a final wh-word and period.<br/>
