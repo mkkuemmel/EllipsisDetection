@@ -1,7 +1,7 @@
 # EllipsisDetection
 **This is my Master's thesis: Automatic Ellipsis Detection - Machine Learning vs. Rule-Based Document Classification**
 
-**Only here for the corpus? Look at the end of this readme!**
+***Only here for the corpus? Look at the end of this readme!***
 
 Ellipses (sentences with missing material) are difficult for machines to process. Where information is bound to emptiness, machines struggle to perform. This is why ellipses must be detected and resolved (the missing material has to be rebuilt into the gap) in order to be smoothly processed by computers. In my thesis, I concentrated on the detection of Sluices. <br/> <br/>
 What are Sluices? A Sluice is an embedded question where all but the interrogative pronoun has been elided: <br/>
