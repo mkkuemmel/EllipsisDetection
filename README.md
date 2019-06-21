@@ -25,7 +25,7 @@ You can see both algorithm's performance in the print commands.<br/><br/><br/>
 
 
 
-**Corpus readme**<br/>
+**WhFinCor: Wh-finals corpus readme**<br/>
 
 36 search queries containing 36 german wh-phrases were run on the two source corpora (https://www.dwds.de/r)<br/>
 Result: 479 german sentences with a final wh-word and period.<br/>
