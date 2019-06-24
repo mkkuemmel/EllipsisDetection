@@ -2,7 +2,7 @@
 **This is my Master's thesis: Automatic Ellipsis Detection - Machine Learning vs. Rule-Based Document Classification**
 
 
-Please cite
+Please cite:<br/>
 Kümmel, Miriam. 2019. Automatic Ellipsis Detection - Machine Learning vs. Rule-Based Document Classification. Master Thesis. University of Konstanz - Germany
 
 
