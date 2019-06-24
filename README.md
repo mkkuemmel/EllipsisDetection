@@ -67,3 +67,11 @@ COMPUTATIONAL DATA ANNOTATION: <br/>
 	same (‘y’/’n’).
 - Prediction (column S): A specifically built Sluice-detector can make predictions about a sentence being a sluice 
 	or not. (see readme above)
+
+
+
+
+CITATIONS
+
+Please cite
+Kümmel, Miriam. 2019. Automatic Ellipsis Detection - Machine Learning vs. Rule-Based Document Classification. Master Thesis. University of Konstanz - Germany
